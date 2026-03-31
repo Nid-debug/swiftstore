@@ -35,7 +35,7 @@ export const DEFAULT_ITEMS = [
   {
     id: 4,
     category: "Accessories",
-    name: "Sony PS5",
+    name: "Sony PlayStation 5 Slim Console",
     price: 54990,
     originalPrice: 56999,
     discount: "10% OFF",
@@ -46,7 +46,7 @@ export const DEFAULT_ITEMS = [
   {
     id: 5,
     category: "Home",
-    name: "Washing Machine",
+    name: "LG 8 Kg, 5 Star, Wi-Fi, Direct Drive Technology, Steam Wash",
     price: 25999,
     originalPrice: 27499,
     discount: "5% OFF",
@@ -89,7 +89,7 @@ export const DEFAULT_ITEMS = [
   {
     id: 9,
     category: "Men",
-    name: "Air Max Crimson",
+    name: "VESPER Grey Blue Men's Running Shoes",
     price: 9999,
     originalPrice: 10999,
     discount: "20% OFF",
