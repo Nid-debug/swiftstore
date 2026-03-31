@@ -51,7 +51,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 [Add your Vercel link here]
+👉 swiftstore-lilac.vercel.app
 
 ---
 
